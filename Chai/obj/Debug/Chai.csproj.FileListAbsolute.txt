@@ -1,0 +1,74 @@
+C:\Users\alex0\source\repos\Chai\Chai\bin\Debug\Chai.exe.config
+C:\Users\alex0\source\repos\Chai\Chai\bin\Debug\Chai.exe
+C:\Users\alex0\source\repos\Chai\Chai\bin\Debug\Chai.pdb
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\Chai.csproj.AssemblyReference.cache
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\MainWindow.g.cs
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\App.g.cs
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\Chai_MarkupCompile.cache
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\Chai_MarkupCompile.lref
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\MainWindow.baml
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\Chai.g.resources
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\Chai.Properties.Resources.resources
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\Chai.csproj.GenerateResource.cache
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\Chai.csproj.CoreCompileInputs.cache
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\Chai.exe
+C:\Users\alex0\source\repos\Chai\Chai\obj\Debug\Chai.pdb
+C:\Users\TA-20V-762\Desktop\Chai\Chai\bin\Debug\Chai.exe.config
+C:\Users\TA-20V-762\Desktop\Chai\Chai\bin\Debug\Chai.exe
+C:\Users\TA-20V-762\Desktop\Chai\Chai\bin\Debug\Chai.pdb
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai.csproj.AssemblyReference.cache
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai.csproj.SuggestedBindingRedirects.cache
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\MainWindow.g.cs
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\App.g.cs
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai_MarkupCompile.cache
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai_MarkupCompile.lref
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\MainWindow.baml
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai.g.resources
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai.Properties.Resources.resources
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai.csproj.GenerateResource.cache
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai.csproj.CoreCompileInputs.cache
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai.exe
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai.pdb
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\Chai.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\Chai_MarkupCompile.cache
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\Chai_MarkupCompile.lref
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\Chai.exe
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\Chai.pdb
+C:\Users\IT\Desktop\Chai\Chai\bin\Debug\Chai.exe.config
+C:\Users\IT\Desktop\Chai\Chai\bin\Debug\Chai.exe
+C:\Users\IT\Desktop\Chai\Chai\bin\Debug\Chai.pdb
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\Chai.g.resources
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\Chai.Properties.Resources.resources
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\Chai.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\Chai.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Chai\Chai\bin\Debug\Chai.exe.config
+D:\Рабочий стол\Chai\Chai\bin\Debug\Chai.exe
+D:\Рабочий стол\Chai\Chai\bin\Debug\Chai.pdb
+D:\Рабочий стол\Chai\Chai\obj\Debug\Chai.csproj.AssemblyReference.cache
+D:\Рабочий стол\Chai\Chai\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\Chai\Chai\obj\Debug\App.g.cs
+D:\Рабочий стол\Chai\Chai\obj\Debug\Chai_MarkupCompile.cache
+D:\Рабочий стол\Chai\Chai\obj\Debug\Chai_MarkupCompile.lref
+D:\Рабочий стол\Chai\Chai\obj\Debug\MainWindow.baml
+D:\Рабочий стол\Chai\Chai\obj\Debug\Chai.g.resources
+D:\Рабочий стол\Chai\Chai\obj\Debug\Chai.Properties.Resources.resources
+D:\Рабочий стол\Chai\Chai\obj\Debug\Chai.csproj.GenerateResource.cache
+D:\Рабочий стол\Chai\Chai\obj\Debug\Chai.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Chai\Chai\obj\Debug\Chai.exe
+D:\Рабочий стол\Chai\Chai\obj\Debug\Chai.pdb
+D:\Рабочий стол\Chai\Chai\obj\Debug\calcu.g.cs
+D:\Рабочий стол\Chai\Chai\obj\Debug\calcu.baml
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\calcu.g.cs
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\calcu.baml
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\calcu.g.cs
+C:\Users\IT\Desktop\Chai\Chai\obj\Debug\calcu.baml
+C:\Users\TA-20V-762\Desktop\Chai\Chai\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\TA-20V-762\Desktop\Chai\Chai\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\TA-20V-762\Desktop\Chai\Chai\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\TA-20V-762\Desktop\Chai\Chai\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\TA-20V-762\Desktop\Chai\Chai\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\TA-20V-762\Desktop\Chai\Chai\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\TA-20V-762\Desktop\Chai\Chai\obj\Debug\Chai.csproj.CopyComplete
